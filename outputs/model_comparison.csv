@@ -1,0 +1,3 @@
+model,ROC-AUC,KS
+Logistic Scorecard,0.7864,0.4473
+XGBoost,0.7802,0.4434
